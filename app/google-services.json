@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264865759442",
+    "project_id": "testingfirebase-7a704",
+    "storage_bucket": "testingfirebase-7a704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264865759442:android:92b5d382bb4ff6ac16ad0b",
+        "android_client_info": {
+          "package_name": "com.example.latihanfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqk6AMvnvGkHrDZrBaoO-oX5m1u9xuVFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
